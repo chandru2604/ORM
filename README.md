@@ -1,4 +1,4 @@
-<img width="940" height="506" alt="505150514-6a96f356-bc03-4c5a-a155-c9e960ec7933" src="https://github.com/user-attachments/assets/02860bb9-30ce-442f-9744-e00687e64e9c" /># Ex02 Django ORM Web Application
+# Ex02 Django ORM Web Application
 ## 
 
 ## AIM
